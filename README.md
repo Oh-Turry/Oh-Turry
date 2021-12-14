@@ -5,7 +5,7 @@
 - 🔭 I just started learning Python in 2020!
 - 🌱 I’m currently still learning Python, but I'd like to learn Java & NodeJS.
 - 🥅 2022 Goals: Complete my Python course and start making cooler projects on github.
-- ⚡ Fun fact: I love playing Minecraft esspecially on hypixel and I like the colour blue.
+- ⚡ Fun fact: I love playing Minecraft especially on hypixel and I like the colour blue.
 
 ### <h2 align="center">Languages & Tools</h2>
 <div align="center">
