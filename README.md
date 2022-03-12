@@ -1,10 +1,10 @@
 
 ### <h2 align="center">Greetings Fellow Coderlings! </h2>
-<h3 align="center">My name is Turry, I am a GCSE Graduate and I am studying Computer Science.</h3>
+<h3 align="center">My name is Turry, I am studying NCC Computer Science.</h3>
 
 - 🔭 I just started learning Python in 2020!
-- 🌱 I’m currently still learning Python, but I'd like to learn Java & NodeJS.
-- 🥅 2022 Goals: Complete my Python course and start making cooler projects on github.
+- 🌱 I’m currently still learning Python, but I'd like to learn JavaScript & NodeJS.
+- 🥅 2022 Goals: Complete my Python course, probably learn Kotlin and Rust because they seem cool.
 - ⚡ Fun fact: I love playing Minecraft especially on hypixel and I like the colour blue.
 
 ### <h2 align="center">Languages & Tools</h2>
